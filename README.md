@@ -8,6 +8,8 @@ This **EDR Attack and Defend Home Lab** simulates real-world cyberattacks and en
 
 The goal is to execute attacks, monitor activity, and analyze detections to understand both offensive and defensive security techniques.  
 
+This lab will be completed using the guide by Eric Capuano: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro
+
 ## Objectives  
 - **Set up the lab** with two virtual machines and proper networking.  
 - **Simulate attacks** using Silver on Ubuntu.  
