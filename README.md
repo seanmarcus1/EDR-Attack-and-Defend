@@ -12,6 +12,6 @@ This lab will be completed using the guide by Eric Capuano: https://blog.ecapuan
 
 ## Objectives  
 - **Set up the lab** with two virtual machines and proper networking.  
-- **Simulate attacks** using Silver on Ubuntu.  
+- **Simulate attacks** using Silver on Ubuntu Server.  
 - **Deploy LimaCharlie** on Windows 11 for EDR monitoring.  
 - **Analyze detections** and document key findings. 
