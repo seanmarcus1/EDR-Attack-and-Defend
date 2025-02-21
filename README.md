@@ -85,7 +85,7 @@ LimaCharlie "LSASS ACCESSED" rule in use:![LimaCharlie Rule in Use](https://gith
 ## Creating Rules for Detection **AND** Response
 Now instead of only detection, we can create a rule that will detect **and** block attacks coming from the **Sliver** Server. Using the attacking machine, we can simulate parts of a ransomware attack by attempting to delete the volume shadow copies. We can then create and implement a rule using LimaCharlie that will completely block the attack. We can check the status of our server using the "whoami" command.
 
-Using a shell to attempt to delete the volume shadow copies:![Ubuntu Shell-ShadowCopies](https://github.com/user-attachments/assets/b64bcc49-0548-45da-a9b5-afd509e3ad1a)
+Using a system shell to attempt to delete the volume shadow copies:![Ubuntu Shell-ShadowCopies](https://github.com/user-attachments/assets/b64bcc49-0548-45da-a9b5-afd509e3ad1a)
 
 Telemetry of our attack on LimaCharlie:![LimaCharlie ShadowCopies Telemetry](https://github.com/user-attachments/assets/1be4a00d-e0fb-41a9-89d2-06438f50e403)
 
